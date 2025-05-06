@@ -11,7 +11,7 @@ This work demonstrates the potential of machine learning models as effective, in
 # BRFSS 2015 Heart Disease Dataset
 
 ##  Dataset Overview
-- **Source**: [BRFSS 2015 Dataset on Kaggle](https://www.kaggle.com/)
+- **Source**: [BRFSS 2015 Dataset on Kaggle](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset?resource=download)
 - **Size**: 253,680 samples
 - **Features**: 22 columns
 - **Target Variable**: 
